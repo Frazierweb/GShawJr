@@ -4,52 +4,34 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Hello and welcome to my personal  webpage. I am a Doctoral Ctudent in the School of Library and Information Science (SLIS) at the University of South Carolina.  I work as the Student Services Program Coordinator for SLIS.  I am also working on a Health Communication Certificate, which is a joint degree with SLIS, the School of Journalism and Mass Communication, and the Arnold School of Public Health.   My research interests are health informatics, health literacy, text mining, health communication barriers, and information systems. My current research looks at the intersection of public health and computational science to identify an alternate method to collect behavioral risk factor information.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* May 2018 (Anticipated) -
+Doctor of Philosophy in Library and Information Science
+University of South Carolina – Columbia
+
+* December 2017 (Anticipated) -
+Certificate of Graduate Study in Health Communication
+University of South Carolina – Columbia
+
+* May 2009 -
+Master of Science in Management with a concentration in Management of Information Systems
+North Carolina Agricultural and Technical State University
+
+* May 2007 -
+Bachelor of Science in Business Administration with an emphasis in Information Systems
+Charleston Southern University
+
 
 ## Roles
 
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+Student Services Program Coordinator for the School of Library and Information Science, University of South Carolina
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[gshaw@email.sc.edu](mailto:gshaw@email.sc.edu)

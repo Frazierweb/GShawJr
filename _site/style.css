@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: #B15848;
+  color: #F4C85B;
 }
 h1 a {
   color: inherit;
@@ -683,7 +683,7 @@ code {
 /****************************/
 /* JEKYLL-mono-color */
 /***************************/
-/* 
+/*
     *Title
 */
 .site-name a {
@@ -692,7 +692,7 @@ code {
   cursor: pointer;
 }
 .site-name a:hover {
-  color: #1a2e56;
+  color: #3258a4;
 }
 
 .post a {
@@ -706,7 +706,7 @@ code {
   color: #333;
 }
 .post-heading a:hover {
-  color: black;
+  color: #1a1a1a;
 }
 
 /*
@@ -782,7 +782,7 @@ button.button-primary:focus {
     padding: 150px 0;
   }
 }
-/* 
+/*
     *empty spaces
 */
 .space-medium {
@@ -797,9 +797,9 @@ button.button-primary:focus {
   padding: 30px 0 15px;
 }
 
-/* 
+/*
     *svg-icons
-    
+
 */
 .svg-icon a {
   color: #f1b82b;
