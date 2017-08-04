@@ -198,6 +198,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid #eee;
+  text-align: center;
 }
 @media screen and (max-width: 640px) {
   .masthead {
@@ -244,7 +245,7 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 15px 0 0 0;
   color: #fff;
   font-size: 16px;
 }
@@ -255,7 +256,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
